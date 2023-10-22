@@ -1,7 +1,8 @@
 # Crime Analysis
 
-The imported CSV file contains approximately 3116 rows, 21 columns. The goal of this project was to familiarize myself with the libraries of Python including, but not limited to, NumPY, seaborn, Matplotlib, sci-kit learn, and more.
+The goal of this project was to familiarize myself with the libraries of Python including, but not limited to, NumPy, seaborn, Matplotlib, sci-kit learn, and more.
 ![image](https://github.com/moonneer/crime_analysis/assets/108647944/51600b8b-01d7-4ab3-8f18-86cbfc00c4b8)
+<em>The imported CSV file containing approximately 3116 rows, 21 columns. </em>
 
 In the below three images, I built functions to clean the data, prepare it for some visual analysis, and demonstrate the frequency of rates of crime growth within several states. These functions can take in, as arguments, any state + csv file formatted in the same order to give an accurate visual representation of said data.
 
